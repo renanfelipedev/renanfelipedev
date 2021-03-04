@@ -9,7 +9,7 @@ Hi, welcome to my github. 👋
 <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" /> 
 <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" /> 
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" /> 
-<img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" /> 
+<img src="https://img.shields.io/badge/React-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" /> 
 </div>
 
 <br>
